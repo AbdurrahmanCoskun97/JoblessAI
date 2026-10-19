@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+config.json
+api_key.txt
+deepseek_api_key.txt
+
+# Runtime state
+seen_jobs.txt
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
